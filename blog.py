@@ -2,10 +2,6 @@ import sqlite3
 import sys
 
 
-
-
-
-
 def main():
     global stuff
     meals_id_list = []
